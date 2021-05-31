@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 80%;
+}
+
+body {
+    font-family: 'Nerko One', cursive;  
+    background-color: #add8e6;
+}
+
+/* Header */
+
+header {
+    margin: 20px 0;
+}
+
+header h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
